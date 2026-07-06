@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: marcos.doc.agendamento_horario.AgendamentoHorarioApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.233 s -- in marcos.doc.agendamento_horario.AgendamentoHorarioApplicationTests
